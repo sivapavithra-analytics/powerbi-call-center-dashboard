@@ -29,5 +29,9 @@ This dashboard helps management:
 
 ---
 
-## 🚀 Status
-Dashboard file and screenshots will be uploaded
+## 🖼️ Dashboard Preview
+
+![Call Center Dashboard](screenshots/call_center_dashboard.png)
+![Churn Dashboard](screenshots/churn_dashboard.png)
+![Customer Risk Analysis](screenshots/customer_risk_analysis.png)
+
