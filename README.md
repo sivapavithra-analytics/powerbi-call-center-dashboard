@@ -34,4 +34,4 @@ This dashboard helps management:
 ![Call Center Dashboard](screenshots/Call_center_dashboard.png)
 ![Churn Dashboard](screenshots/Churn_dashboard.png)
 ![Customer Risk Analysis](screenshots/Customer_risk_analysis.png)
-![Churn Analysis](screenshots/churn_analysis.png)
+![Churn Analysis](screenshots/Churn_analysis.png)
